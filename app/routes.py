@@ -30,3 +30,5 @@ def results():
     output = model.shout(userdata['nickname'])
     print(output)
     return return
+
+#hurd da man
